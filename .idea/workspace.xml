@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d45da15-31cf-4f26-8c5a-ad4776ab7126" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PS2/PS2.P1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PS2/PS2.P2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PS2/PS2.P3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663530377856</updated>
       <workItem from="1663530379959" duration="85000" />
-      <workItem from="1664761853818" duration="8782000" />
+      <workItem from="1664761853818" duration="9105000" />
     </task>
     <servers />
   </component>
