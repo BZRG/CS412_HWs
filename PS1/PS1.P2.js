@@ -18,7 +18,7 @@ const operator_check = expression => {
             return (left, right) => left / right;
             break;
         case "^":
-            return (left, right) => left ^ right;
+            return (left, right) => left ** right;
             break;
         case "%":
             return (left, right) => left % right;
